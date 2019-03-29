@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/strategies/LoginStrategy.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/users/Admin.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/users/Secretary.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/controller/LoginStrategyController.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/factory/userFactory.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/strategies/SecretaryLoginStrategy.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/users/Patient.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/strategies/DoctorLoginStrategy.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/strategies/PatientLoginStrategy.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/user_assets/DoctorAppointment.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/strategies/AdminLoginStrategy.java</file>
+            <file>file:/C:/Users/Reece%20Davies/Documents/Computer%20Science/Year%202/SOFT252/Java_coursework/PatientManagementSystem/src/users/Doctor.java</file>
+        </group>
+    </open-files>
+</project-private>
